@@ -12,4 +12,7 @@ You can use both double and single quote in one string;
       //  var htmlsnippet = '<h2 class="special">A very important headline</h2>';
       
     alert(4+7);
+
+    /*for numbers, you need not use the quotes otherwise JavaScript will take the value to be
+    a string*/
        
