@@ -9,7 +9,7 @@ You can use both double and single quote in one string;
 */
         alert("It's nice to meet you");
                     //or
-        var htmlsnippet = '<h2 class="special">A very important headline</h2>';
-        alert(htmlsnippet);
-
+      //  var htmlsnippet = '<h2 class="special">A very important headline</h2>';
+      
+    alert(4+7);
        
