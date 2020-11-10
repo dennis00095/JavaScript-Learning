@@ -16,3 +16,4 @@ You can use both double and single quote in one string;
     /*for numbers, you need not use the quotes otherwise JavaScript will take the value to be
     a string*/
        
+    
